@@ -41,7 +41,7 @@
 html, body {
   font-family: "Poppins", sans-serif;
   font-weight: 400;
-  color: #494949;
+  color: #c66fe9;
   font-size: 12px;
   line-height: 1.75em;
 }
@@ -80,7 +80,7 @@ table {
 h1, h2, h3, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6 {
   font-family: "Poppins", sans-serif;
   font-weight: 400;
-  color: #292929;
+  color: #1ad8f1;
   clear: both;
 }
 
@@ -253,7 +253,7 @@ address {
 }
 
 dt {
-  color: #292929;
+  color: #e67124;
   font-weight: bold;
 }
 
@@ -805,12 +805,12 @@ code:not(.language-html) {
 }
 
 .bg-success .nav .open > a, .bg-success .nav .open > a:focus, .bg-success .nav .open > a:hover {
-  background-color: #229955;
+  background-color: #2c9ee0;
   color: #fff !important;
 }
 
 .bg-success .nav > li > a:focus, .bg-success .nav > li > a:hover {
-  background-color: #229955;
+  background-color: #c3df27;
   color: #fff !important;
 }
 
